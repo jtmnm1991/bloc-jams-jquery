@@ -25,5 +25,8 @@
     const previousSong = album.songs[previousSongIndex];
     player.playPause(previousSong);
   });
+<<<<<<< HEAD
 
+=======
+>>>>>>> assignment-19-player-bar-buttons
 }
